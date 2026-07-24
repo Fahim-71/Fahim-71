@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=750&lines=Hey+👋+I'm+Mohammed+Fahim;Junior+MERN+Stack+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Passionate+Full-Stack+Web+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="fahim.jpg" alt="Mohammed Fahim" width="250" style="border-radius: 50%;" />
+  <img src="Fahim.jpg" alt="Mohammed Fahim" width="250" style="border-radius: 50%;" />
 </p>
 
 <br>
